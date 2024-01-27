@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">a spirited individual with a love for connecting people, ideas, and making every moment count</h3>
+<h3 align="center">A spirited individual with a love for connecting people, ideas, and making every moment count</h3>
 
 - 🔭 I’m currently working on **O'Fourneaux**
 
